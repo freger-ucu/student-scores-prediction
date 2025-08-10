@@ -5,7 +5,7 @@ This project predicts student exam scores using both **custom-implemented models
 ## Problem Statement
 With the proliferation of data-driven methodologies in education, institutions are turning to predictive analytics to support student achievement and optimize resource allocation. Underperforming students face diminished academic and career prospects, and schools incur significant costs addressing remediation and dropout prevention. Early and accurate prediction of exam performance is therefore essential to enable timely, targeted interventions.
 
-In this project, we develop a machine learning pipeline that leverages features such as hours studied, attendance rates, and parental factors to forecast student exam scores with high precision. Our objective is to provide educators with actionable insights that facilitate personalized support and improve overall educational outcomes.
+In this project, I develop a machine learning pipeline that leverages features such as hours studied, attendance rates, and parental factors to forecast student exam scores with high precision. Our objective is to provide educators with actionable insights that facilitate personalized support and improve overall educational outcomes.
 
 #### In this project:
 
@@ -101,7 +101,6 @@ for name in models:
 
 **Best Model:** Linear Regression for balance of accuracy and interpretability.
 
-## 📝 License
+## 📝 Author
 
-MIT License.
-
+Mykhailo Rykhalskyi
