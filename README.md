@@ -1,7 +1,5 @@
 # Student Exam Scores Prediction
 
-This project predicts student exam scores using both **custom-implemented models** and scikit-learn baselines. It includes **data preprocessing, exploratory analysis, model training, hyperparameter tuning, and evaluation**.
-
 ## Problem Statement
 With the proliferation of data-driven methodologies in education, institutions are turning to predictive analytics to support student achievement and optimize resource allocation. Underperforming students face diminished academic and career prospects, and schools incur significant costs addressing remediation and dropout prevention. Early and accurate prediction of exam performance is therefore essential to enable timely, targeted interventions.
 
